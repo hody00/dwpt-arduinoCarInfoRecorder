@@ -1,6 +1,6 @@
 ******************** Dynamic Wireless Power Transper Project **********************
 
-The code I wrote in "dwpt_v3" intended to collect data of a moving car.
+The code I wrote in "dwpt_v2" intended to collect data of a moving car.
 
 I used Arduino Mega ADK board, connected to it a gps module (Neo-7M), and a USB thumb drive.
 
